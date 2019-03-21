@@ -1,2 +1,2 @@
 # rockpaperscissors
-Canadian Computing Competition Task for Grade 10 ICS
+Grade 10 ICS Assignment (Python)
